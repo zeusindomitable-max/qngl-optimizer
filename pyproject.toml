@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qngl-optimizer"
+version = "0.1.0"
+description = "Quantum Natural Gradient Light Optimizer"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [{name = "Hari Tedjamantri", email = "hari.tedjamantri@gmail.com"}]
+dependencies = [
+    "torch>=2.0",
+]
+
