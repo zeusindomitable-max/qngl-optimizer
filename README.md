@@ -7,7 +7,11 @@
   <img src="https://img.shields.io/github/stars/zeusindomitable-max/qngl-optimizer?style=social" />
   <img src="https://img.shields.io/pypi/v/qngl-optimizer?color=success" />
 </p>
-
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.17549416">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17549416.svg" alt="DOI">
+  </a>
+</p>
 > **100x faster convergence than SGD** on structured data — **no quantum computer needed.**
 
 ---
