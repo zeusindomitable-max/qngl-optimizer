@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" />
   <img src="https://img.shields.io/badge/PyTorch-2.0%2B-orange" />
-  <img src="https://img.shields.io/github/stars/haritedjamantri/qngl-optimizer?style=social" />
+  <img src="https://img.shields.io/github/stars/https://github.com/zeusindomitable-max/qngl-optimizer/tree/main?style=social" />
   <img src="https://img.shields.io/pypi/v/qngl-optimizer?color=success" />
 </p>
 
