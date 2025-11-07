@@ -97,7 +97,17 @@ X: @haritedjamantri
 Email: haryganteng06@gmail.com
 
 
-## LicenseMIT © 2025 Hari Tedjamantri
+## License
+
+[![License: Dual (MIT + Commercial)](https://img.shields.io/badge/license-Dual%20(MIT%20%2B%20Commercial)-blue.svg)](./LICENSE.md)
+
+This project is released under a **Dual License**:
+
+- 🧪 **MIT License** for academic and non-commercial use.  
+- 💼 **Commercial License** required for commercial applications.
+
+For licensing inquiries, contact **Hari Tedjamantri** — haryganteng06@gmail.com.com
+
 
 
 
