@@ -66,12 +66,19 @@ examples/sine_regression.ipynb
 
 
 ## Citation
-@misc{tedjamantri2025qngl,
+
+@misc{tedjamantri2025qngl
+
   author = {Hari Tedjamantri},
-  title = {QNGL: Quantum Natural Gradient Light for Classical ML},
+  
+  title = {QNGL: Quantum Natural Gradient Light for Classical ML}
+  
   year = {2025},
+  
   publisher = {GitHub},
+  
   journal = {GitHub repository},
+  
   howpublished = {\url{https://github.com/haritedjamantri/qngl-optimizer}}
 }
 
