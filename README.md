@@ -82,6 +82,10 @@ examples/sine_regression.ipynb
   howpublished = {\url{https://github.com/zeusindomitable-max/qngl-optimizer}}
 }
 
+## Paper
+📄 [Full mathematical derivation → docs/PAPER.md](docs/PAPER.md)
+
+
 ### Author
 Hari Tedjamantri
 X: @haritedjamantri
