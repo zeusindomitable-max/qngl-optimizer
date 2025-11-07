@@ -4,7 +4,7 @@
 **Hari Tedjamantri**  
 *Independent Researcher*  
 X: [@haritedjamantri](https://x.com/haritedjamantri)  
-Email: hari.tedjamantri@gmail.com
+Email: haryganteng06@gmail.com
 
 ---
 
