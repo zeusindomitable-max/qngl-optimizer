@@ -79,7 +79,7 @@ examples/sine_regression.ipynb
   
   journal = {GitHub repository},
   
-  howpublished = {\url{https://github.com/haritedjamantri/qngl-optimizer}}
+  howpublished = {\url{https://github.com/zeusindomitable-max/qngl-optimizer}}
 }
 
 ### Author
